@@ -7,3 +7,9 @@ __vsc_prompt_cmd_original
 git branch -d feat/add-gitignore
 git log --oneline
 git log
+__vsc_prompt_cmd_original
+git remote show origin
+cd ..
+git remote show origin
+__vsc_prompt_cmd_original
+git push origin main
